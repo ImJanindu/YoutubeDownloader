@@ -1,0 +1,16 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# External Binaries & Executables
+ffmpeg.exe
+*.exe
+
+# PyInstaller Build Directories
+build/
+dist/
+*.spec
+
+# Local Application Data
+config.json
