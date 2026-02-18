@@ -14,6 +14,8 @@ A high-performance, dark-themed desktop application for downloading YouTube vide
 * **Persistent Settings**: Remembers your preferred download directory and default format using a local `config.json` file.
 * **Fail-Safe Fallbacks**: Automatically adjusts to standard 720p downloads if advanced dependencies (like FFmpeg) are missing on the host machine.
 
+_Playlist download not supported currently, this feature will be available in a future release._
+
 ## 🛠️ Technologies Used
 
 * **[Python 3](https://www.python.org/)**: Core programming language.
