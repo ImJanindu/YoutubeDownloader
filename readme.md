@@ -32,7 +32,10 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/imjanindu/youtube-downloader.git
+```
 
+Move to the app directory:
+```bash
 cd youtube-downloader
 ```
 
