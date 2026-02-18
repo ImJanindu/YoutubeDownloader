@@ -31,7 +31,8 @@ Ensure you have Python 3.8 or higher installed.
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/imjanindu/youtube-downloader.git](https://github.com/imjanindu/youtube-downloader.git)
+git clone https://github.com/imjanindu/youtube-downloader.git
+
 cd youtube-downloader
 ```
 
