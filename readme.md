@@ -26,6 +26,8 @@ A high-performance, dark-themed desktop application for downloading YouTube vide
 
 ## ⚙️ Prerequisites & Setup
 
+_If you are not a developer, you can download the executable file in releases section and double click to run it :)_
+
 ### 1. Python Environment
 Ensure you have Python 3.8 or higher installed. 
 Clone the repository to your local machine:
